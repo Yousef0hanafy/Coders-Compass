@@ -117,7 +117,7 @@ a:hover {
 }
 @media (max-width: 767px) {
     .main-title{
-        font-size: 20px;
+        font-size: 16px;
         padding: 5px 10px;
     }
     .main-title::before{
